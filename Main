@@ -7,7 +7,7 @@
     //The output gives the number of candles burned given a certain starting number and the number of used 
     //candles required to make a new one.
     
-//Sample Messages and Keywords:
+//Sample Inputs and Outputs:
 //Feel free to try them out!
 //1: 
     //Inputs: 
