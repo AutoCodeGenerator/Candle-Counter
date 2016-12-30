@@ -6,7 +6,7 @@ The idea is that a certain number of used candles can be recycled into new candl
 
 This is my work to solve the arcade challenge posted on codefights:https://codefights.com/arcade/code-arcade/loop-tunnel/LAKReA3CR9EwkZGSz/description
 
-Description:
+Description of task: (take from the codefights page)
 When a candle finishes burning it leaves a leftover. makeNew leftovers can be combined to make a new candle, which, when burning down, will in turn leave another leftover.
 
 You have candlesNumber candles in your possession. What's the total number of candles you can burn, assuming that you create new candles as soon as you have enough leftovers?
