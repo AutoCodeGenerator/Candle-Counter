@@ -6,31 +6,7 @@
     //The idea is that a certain number of burned candles can be recycled into new candles to be burned again. 
     //The output gives the number of candles burned given a certain starting number and the number of used 
     //candles required to make a new one.
-    
-//Sample Inputs and Outputs:
-//Feel free to try them out!
-//1: 
-    //Inputs: 
-      //candlesNumber: 5
-      //makeNew: 2
-    //Output: 9
-//2:
-    //Inputs: 
-      //candlesNumber: 1
-      //makeNew: 2
-    //Output: 1
-//3:
-    ///Inputs: 
-      //candlesNumber: 3
-      //makeNew: 3
-    //Output: 4
-//4:
-    //Inputs: 
-      //candlesNumber: 1
-      //makeNew: 3
-    //Output: 16
-    
-//////Code//////
+
 int candles(int candlesNumber, int makeNew) {
     return candlesNumber +((candlesNumber-1)/(makeNew-1));
 }
