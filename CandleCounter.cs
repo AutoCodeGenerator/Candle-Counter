@@ -1,5 +1,5 @@
 //The common solution to this problem was to use a loop to manually go through the candle burning logic.
-//It is much more efficient to use an algorythm which has a constant time complexity rather than the linear complexity
+//It is much more efficient to use an algorythm which has a linear time complexity rather than the quadratic complexity
 //that a loop creates.
 
 //Overview: 
